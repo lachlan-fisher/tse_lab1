@@ -123,6 +123,6 @@
   #4) HYPOTHESIS TEST
   # H_0: p_5=0
   # H_A: p_5/=0
-  # tt:=0.8864176, t_crit=1.96, as tt<t_crit p_5 is significantly different
-  # from zero.
+  # tt:=0.8864176, t_crit=1.96,
+  # as tt<t_crit p_5 is significantly different from zero.
       
